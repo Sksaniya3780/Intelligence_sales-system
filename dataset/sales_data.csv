@@ -1,0 +1,16 @@
+order_date,product,category,quantity,sales_amount,inventory
+2025-01-01,Laptop,Electronics,5,250000,50
+2025-01-02,Mouse,Electronics,15,15000,100
+2025-01-03,Keyboard,Electronics,10,25000,90
+2025-01-04,Monitor,Electronics,6,60000,40
+2025-01-05,Printer,Electronics,3,45000,25
+2025-01-06,Laptop,Electronics,4,200000,45
+2025-01-07,Mouse,Electronics,20,20000,80
+2025-01-08,Keyboard,Electronics,12,30000,70
+2025-01-09,Monitor,Electronics,7,70000,35
+2025-01-10,Printer,Electronics,5,75000,20
+2025-01-11,Laptop,Electronics,6,300000,38
+2025-01-12,Mouse,Electronics,18,18000,62
+2025-01-13,Keyboard,Electronics,14,35000,55
+2025-01-14,Monitor,Electronics,5,50000,30
+2025-01-15,Printer,Electronics,4,60000,15
