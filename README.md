@@ -25,3 +25,6 @@ python database/data_operations.py
 ## Run App
 
 streamlit run app.py
+
+
+live link:  https://intelligence-sales-system.onrender.com
